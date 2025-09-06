@@ -1,0 +1,15 @@
+
+.feature-box:hover {
+    transform: translateY(-5px);
+    transition: all 0.2s ease-in-out;
+    box-shadow: 0 0 20px rgba(0, 123, 255, 0.15);
+  }
+  
+  .stats-section {
+    background: #f8f9fa;
+  }
+  
+
+.container {
+    margin-top: 50px;
+}

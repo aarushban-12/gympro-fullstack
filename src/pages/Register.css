@@ -1,0 +1,14 @@
+.register-page {
+    background: linear-gradient(135deg, #3b82f6, #06b6d4);
+    border: 3px solid black;
+  }
+  
+  .card {
+    border-radius: 12px;
+  }
+  
+  .card h2 {
+    font-weight: bold;
+    color: #333;
+  }
+  
